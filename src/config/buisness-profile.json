@@ -1,0 +1,6 @@
+{
+    "name": "Smile Dental",
+    "hours" : "Mon-Fri 9am-5pm",
+    "location": "123 Main Street, London",
+    "services": ["cleaning", "whitening", "fillings"]
+}
